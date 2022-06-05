@@ -10,3 +10,9 @@ for (let i = 2; i <= 100; i++) {
     console.log(`1 / ${denominator * i} + 1 / ${_denominator}`);
   }
 }
+
+// result
+
+// 1 / 8 + 1 / 8
+// 1 / 12 + 1 / 6
+// 1 / 20 + 1 / 5
